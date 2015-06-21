@@ -20,6 +20,7 @@ MAIN_PACKAGE_PATH  = os.path.abspath(os.sep.join((PACKAGE_SOURCE_DIR,MAIN_PACKAG
 INSTALL_REQUIRES = [
                     'numpy >= 1.1.0',
                     'matplotlib >= 0.98',
+                    'Pillow >= 2.8.2',
                     ]
 
 #scripts and plugins
